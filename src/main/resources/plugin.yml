@@ -1,0 +1,4 @@
+name: VirusPlusPlugin
+version: '${project.version}'
+main: me.terramain.virusplusplugin.Main
+api-version: '1.20'
